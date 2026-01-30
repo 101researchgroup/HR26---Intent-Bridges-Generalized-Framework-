@@ -7,7 +7,7 @@
 **ISBN:** 978-80-11-08018-1  
 
 **GitHub Repository:**  
-https://github.com/101researchgroup/HR26---Intent-Bridges-(Generalized-Framework)
+https://github.com/101researchgroup/HR26---Intent-Bridges-Generalized-Framework-
 
 ## Status
 Formal research document.
